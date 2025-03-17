@@ -13,7 +13,7 @@ public class Student {
 	}
 	
 	public void display() {
-		
+		System.out.println("display method");
 	}
 
 	public static void main(String[] args) {
