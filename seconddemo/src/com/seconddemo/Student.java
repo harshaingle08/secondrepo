@@ -11,6 +11,10 @@ public class Student {
 		this.rollno = rollno;
 		this.name = name;
 	}
+	
+	public void display() {
+		
+	}
 
 	public static void main(String[] args) {
 		
