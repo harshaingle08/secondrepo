@@ -16,6 +16,10 @@ public class Student {
 		System.out.println("display method");
 	}
 
+	public void m1(){
+		syso(m1-student)
+	}
+
 	public static void main(String[] args) {
 		
 		Student s = new Student(1,"aaa");
