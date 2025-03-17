@@ -17,7 +17,7 @@ public class Student {
 	}
 
 	public void m1(){
-		syso(m1-student)
+		System.out.println("m1-student");
 	}
 
 	public static void main(String[] args) {
